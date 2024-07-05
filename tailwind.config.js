@@ -36,7 +36,7 @@ export default {
         "0.875rem",
         {
           fontWeight: 500,
-          lineHeight: "1.438rem",
+          lineHeight: "1.5rem",
         },
       ],
     },
